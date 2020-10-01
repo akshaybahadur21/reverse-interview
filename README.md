@@ -16,6 +16,7 @@ Translations:
 - [French](https://github.com/viraptor/reverse-interview/blob/master/translations/FRENCH.md)
 - [German](https://github.com/viraptor/reverse-interview/blob/master/translations/GERMAN.md)
 - [Hindi](https://github.com/hraverkar/reverse-interview/blob/master/translations/Hindi.md)
+- [Indonesian](https://github.com/viraptor/reverse-interview/blob/master/translations/INDONESIAN.md)
 - [Italian](https://github.com/viraptor/reverse-interview/blob/master/translations/ITALIAN.md)
 - [Korean](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 - [Portuguese (Brazilian)](https://github.com/viraptor/reverse-interview/blob/master/translations/pt-BR.md)
@@ -179,6 +180,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 - If you have a bonus scheme, then what have been the typical bonus percentages over the past few years?
 - Do you have a 401k or other retirement plan? If so, does the company match additional plan contributions?
 - Are there medical benefits and if so, when do they start?
+- Do you pay for relocation?
 
 # Time Off
 
